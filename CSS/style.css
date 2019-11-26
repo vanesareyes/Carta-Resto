@@ -1,0 +1,42 @@
+/*body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    width: 900px;
+}
+
+h1{
+    font-size: 37px;
+    line-height: 46px;
+    font-family: tahoma, Helvetica, sans-serif
+    color: #000000;
+}
+
+h2{
+    font-size: 25px;
+    line-height: 38px;
+    font-family: tahoma, Helvetica, sans-serif
+}
+
+h3{
+    font-display: 18px;
+    color: #666;
+}
+
+p{
+    font-size: 18px;
+    line-height: 27px;
+    color: #333;
+}
+
+
+El ​ contenedor A ​ va a tener un borde inferior de 1px.
+El ​ contenedor B​ tendrá 300px de ancho y flotará a la izquierda.
+12. El ​ contendor C​ tendrá 610px de ancho y flotará a la derecha.
+13. El ancho total del sitio será de 960px
+14. El <header> tendrá un padding-bottom de 20px y un borde de 1px.
+Los c
+ontenedores B y C​ tendrán un padding 15px en todos sus lados.
+16. El​ contenedor C​ tendrá un borde izquierdo de 1px
+17. El ​ contenedor D​ tendrá un padding de 20px en todos sus laterales.
+*/
+
